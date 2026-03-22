@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Electron build output
+dist/
+out/
+
+# Auto-save file
+autosave.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
